@@ -7,7 +7,9 @@ namespace MicroCrew.MUI {
 
 	public class MUI : MonoBehaviour {
 
-		
+		public void MyVoid() {
+
+        }
 
 	}
 
