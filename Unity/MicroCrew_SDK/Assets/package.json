@@ -1,0 +1,23 @@
+{
+  "name": "com.microcrew.core",
+  "version": "0.0.1",
+  "displayName": "MicroCrew_Core",
+  "description": "Core functions for game setup",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "author": {
+    "name": "beatenpixel",
+    "email": "btn.pixel@gmail.com",
+    "url": "https://microcrew.com"
+  },
+  "samples": {
+	  {
+		  "displayName": "GameSetup",
+		  "description": "Basic GameSetup",
+		  "path": "Samples/Sample_GameSetup"
+	  }
+  }
+}
