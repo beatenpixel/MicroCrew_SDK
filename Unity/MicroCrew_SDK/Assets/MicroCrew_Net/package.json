@@ -13,9 +13,6 @@
     "email": "btn.pixel@gmail.com",
     "url": "https://microcrew.com"
   },
-  "dependencies": {
-	  "com.microcrew.core": "https://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@github.com/beatenpixel/MicroCrew_SDK.git?path=/Unity/MicroCrew_SDK/Assets/MicroCrew_Core#v0.0.1"
-  },
   "samples": [
 	  {
 		  "displayName": "NetGameSetup",
