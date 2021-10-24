@@ -14,7 +14,7 @@
     "url": "https://microcrew.com"
   },
   "dependencies": {
-	"com.microcrew.core": "git@github.com:beatenpixel/MicroCrew_SDK.git?path=/Unity/MicroCrew_SDK/Assets/MicroCrew_Core#v0.0.1"
+	"com.microcrew.core": "0.0.1"
   },
   "samples": [
 	  {
