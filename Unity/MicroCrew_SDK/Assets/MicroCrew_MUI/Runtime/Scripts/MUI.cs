@@ -11,6 +11,10 @@ namespace MicroCrew.MUI {
 
         }
 
+		public void MyVoid2() {
+
+		}
+
 	}
 
 }
