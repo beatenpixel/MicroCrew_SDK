@@ -13,11 +13,11 @@
     "email": "btn.pixel@gmail.com",
     "url": "https://microcrew.com"
   },
-  "samples": {
+  "samples": [
 	  {
 		  "displayName": "GameSetup",
 		  "description": "Basic GameSetup",
 		  "path": "Samples/Sample_GameSetup"
 	  }
-  }
+  ]
 }
